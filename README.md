@@ -1,3 +1,2 @@
 # JenkinsDemo
-This is a demo for gihub an jenkins integration
-This is a demo
+This is a demo for github and jenkins integration
